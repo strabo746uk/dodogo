@@ -110,7 +110,13 @@ body{
         max-width: none;
     }
     .header__zakaz{
-        margin-left: 20px;
+        display: none;
+    }
+    .header__tel{
+        padding-right: 30px;
+    }
+    .header__icon{
+        margin-right: 40px;
     }
 }
 
